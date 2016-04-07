@@ -1,0 +1,7 @@
+C:\Users\K1NG\Documents\PageCacheSyncher\Chat_APP\bin\Release\App.exe
+C:\Users\K1NG\Documents\PageCacheSyncher\Chat_APP\bin\Release\App.pdb
+C:\Users\K1NG\Documents\PageCacheSyncher\Chat_APP\obj\Release\Chat_APP.Form1.resources
+C:\Users\K1NG\Documents\PageCacheSyncher\Chat_APP\obj\Release\App.Properties.Resources.resources
+C:\Users\K1NG\Documents\PageCacheSyncher\Chat_APP\obj\Release\Page_Cache_Sync.csproj.GenerateResource.Cache
+C:\Users\K1NG\Documents\PageCacheSyncher\Chat_APP\obj\Release\App.exe
+C:\Users\K1NG\Documents\PageCacheSyncher\Chat_APP\obj\Release\App.pdb
