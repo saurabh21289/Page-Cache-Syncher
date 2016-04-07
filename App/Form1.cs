@@ -205,7 +205,7 @@ namespace Chat_APP
             if (myDictionary.TryGetValue(theTerm,out theValue))
             {
                 theValue = myDictionary[theTerm]++;
-                listUnique.Items.Add("Search term: " + theTerm + " found in current data, searched by " + theValue);
+                listUnique.Items.Add("Search term: " + theTerm + " found in current data, searched " + theValue + " times");
             }
             else
             {
