@@ -1,0 +1,10 @@
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.Test\bin\Release\TestCaseGeneration\english-words.txt
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.Test\bin\Release\Gma.DataStructures.StringSearch.Test.dll
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.Test\bin\Release\Gma.DataStructures.StringSearch.Test.pdb
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.Test\bin\Release\Gma.DataStructures.StringSearch.dll
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.Test\bin\Release\nunit.framework.dll
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.Test\bin\Release\Gma.DataStructures.StringSearch.pdb
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.Test\bin\Release\nunit.framework.xml
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.Test\obj\Release\Gma.DataStructures.StringSearch.Test.csprojResolveAssemblyReference.cache
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.Test\obj\Release\Gma.DataStructures.StringSearch.Test.dll
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.Test\obj\Release\Gma.DataStructures.StringSearch.Test.pdb

@@ -1,0 +1,8 @@
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.SampleConsoleApp\bin\Release\sample.txt
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.SampleConsoleApp\bin\Release\Gma.DataStructures.StringSearch.SampleConsoleApp.exe
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.SampleConsoleApp\bin\Release\Gma.DataStructures.StringSearch.SampleConsoleApp.pdb
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.SampleConsoleApp\bin\Release\Gma.DataStructures.StringSearch.dll
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.SampleConsoleApp\bin\Release\Gma.DataStructures.StringSearch.pdb
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.SampleConsoleApp\obj\Release\Gma.DataStructures.StringSearch.SampleConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.SampleConsoleApp\obj\Release\Gma.DataStructures.StringSearch.SampleConsoleApp.exe
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.SampleConsoleApp\obj\Release\Gma.DataStructures.StringSearch.SampleConsoleApp.pdb

@@ -1,0 +1,15 @@
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.DemoApp\bin\Release\texts\Adventures of Huckleberry Finn by Mark Twain.txt
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.DemoApp\bin\Release\texts\Alice's Adventures in Wonderland by Lewis Carroll.txt
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.DemoApp\bin\Release\texts\Grimms' Fairy Tales by Jacob Grimm and Wilhelm Grimm.txt
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.DemoApp\bin\Release\texts\Peter Pan by J. M. Barrie.txt
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.DemoApp\bin\Release\texts\QuickBrownFox.txt
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.DemoApp\bin\Release\Gma.DataStructures.StringSearch.DemoApp.exe
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.DemoApp\bin\Release\Gma.DataStructures.StringSearch.DemoApp.pdb
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.DemoApp\bin\Release\Gma.DataStructures.StringSearch.dll
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.DemoApp\bin\Release\Gma.DataStructures.StringSearch.pdb
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.DemoApp\obj\x86\Release\Gma.DataStructures.StringSearch.DemoApp.csprojResolveAssemblyReference.cache
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.DemoApp\obj\x86\Release\Gma.DataStructures.StringSearch.DemoApp.MainForm.resources
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.DemoApp\obj\x86\Release\Gma.DataStructures.StringSearch.DemoApp.Properties.Resources.resources
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.DemoApp\obj\x86\Release\Gma.DataStructures.StringSearch.DemoApp.csproj.GenerateResource.Cache
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.DemoApp\obj\x86\Release\Gma.DataStructures.StringSearch.DemoApp.exe
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch.DemoApp\obj\x86\Release\Gma.DataStructures.StringSearch.DemoApp.pdb

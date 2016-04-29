@@ -1,0 +1,5 @@
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch\bin\Debug\Gma.DataStructures.StringSearch.dll
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch\bin\Debug\Gma.DataStructures.StringSearch.pdb
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch\obj\Debug\Gma.DataStructures.StringSearch.csprojResolveAssemblyReference.cache
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch\obj\Debug\Gma.DataStructures.StringSearch.dll
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch\obj\Debug\Gma.DataStructures.StringSearch.pdb

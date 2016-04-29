@@ -1,0 +1,4 @@
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch\bin\Release\Gma.DataStructures.StringSearch.dll
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch\bin\Release\Gma.DataStructures.StringSearch.pdb
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch\obj\Release\Gma.DataStructures.StringSearch.dll
+C:\Users\K1NG\Documents\PageCacheSyncher\Trie_example\Gma.DataStructures.StringSearch\obj\Release\Gma.DataStructures.StringSearch.pdb
